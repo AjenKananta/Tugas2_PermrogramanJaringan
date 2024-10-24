@@ -1,1 +1,1 @@
-Tahap-tahap pengiriman pesan dari client ke server dan dikirimkan lagi ke client 2
+Tahap-tahap transfer file menggunakan UDP/TCP menggunakan bahasa Go
